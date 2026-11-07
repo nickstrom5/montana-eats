@@ -1,0 +1,21 @@
+{
+  "name": "Treasure State Eats",
+  "short_name": "MT Eats",
+  "description": "Steakhouses, drive-ins & more: a guide to 2,784 Montana restaurants.",
+  "start_url": "/montana-eats/",
+  "display": "browser",
+  "background_color": "#fbf7ee",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    {
+      "src": "/montana-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/montana-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

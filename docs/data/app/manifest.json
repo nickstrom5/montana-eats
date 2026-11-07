@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.1",
+ "records_through": "2026-11-06",
+ "published": "2026-11-06T23:58:08Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-central-montana": {
+   "path": "detail-central-montana-da5ed3ce5cf9.json",
+   "sha256": "da5ed3ce5cf9b9df4d0ace314461d740c7e0280c23ba7ad4b6cee53f59d8b4b3",
+   "bytes": 21026,
+   "rows": 371
+  },
+  "detail-glacier-country": {
+   "path": "detail-glacier-country-7707d0733d15.json",
+   "sha256": "7707d0733d152bdafc218a439ce73be683e1e74c23e25614f1b8182e3945d752",
+   "bytes": 53460,
+   "rows": 856
+  },
+  "detail-missouri-river-country": {
+   "path": "detail-missouri-river-country-8414a96cc2f1.json",
+   "sha256": "8414a96cc2f18a793195c9f2609941c8a27d1dec828b6dcbffa82952493b82c4",
+   "bytes": 5621,
+   "rows": 112
+  },
+  "detail-southeast-montana": {
+   "path": "detail-southeast-montana-382a2aa378b6.json",
+   "sha256": "382a2aa378b6c7ef50807ab3659dd47c5d9d64e10839338489e3984033131374",
+   "bytes": 32365,
+   "rows": 489
+  },
+  "detail-southwest-montana": {
+   "path": "detail-southwest-montana-0e38c312d782.json",
+   "sha256": "0e38c312d782cc6c07719c102ce0b0228c45f8d9160429d76dcdb2aa10262f4d",
+   "bytes": 26887,
+   "rows": 452
+  },
+  "detail-yellowstone-country": {
+   "path": "detail-yellowstone-country-b79cb9a65cd0.json",
+   "sha256": "b79cb9a65cd0507c4ea9b324096a13306f4e262c641105e59ad86f3bb7456836",
+   "bytes": 32952,
+   "rows": 524
+  },
+  "places": {
+   "path": "places-e45469b97586.json",
+   "sha256": "e45469b9758678218c242de2bdd74e46439a38888a81a8a9f82cc476154f487a",
+   "bytes": 461545,
+   "rows": 2863
+  }
+ },
+ "counts": {
+  "places": 2863,
+  "files": 7,
+  "bytes": 633856,
+  "restaurants": 2784
+ }
+}

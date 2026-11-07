@@ -1,0 +1,299 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/montana-eats",
+ "restaurants": 2784,
+ "places_incl_hidden": 2863,
+ "towns": 238,
+ "counties": 55,
+ "on_an_official_list": 0,
+ "hand_checked_on_a_guide": 55,
+ "serves_alcohol_state_license": 0,
+ "guide_steakhouses": 40,
+ "guide_driveins": 7,
+ "oldest": 8,
+ "honors": 13,
+ "michelin": {},
+ "james_beard": 13,
+ "americas_classics": 0,
+ "permits_updated": "",
+ "city_pages": {
+  "Billings": {
+   "restaurants": 330,
+   "listed": 4,
+   "steakhouses": 3,
+   "driveins": 0,
+   "hon": 1,
+   "oldest": 0
+  },
+  "Missoula": {
+   "restaurants": 257,
+   "listed": 4,
+   "steakhouses": 1,
+   "driveins": 0,
+   "hon": 1,
+   "oldest": 2
+  },
+  "Bozeman": {
+   "restaurants": 240,
+   "listed": 7,
+   "steakhouses": 1,
+   "driveins": 0,
+   "hon": 6,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Great Falls": 2,
+  "Kalispell": 1,
+  "Helena": 3,
+  "Butte": 3,
+  "Whitefish": 2,
+  "Livingston": 1,
+  "Red Lodge": 3,
+  "Big Sky": 0,
+  "West Yellowstone": 1,
+  "Hamilton": 2,
+  "Miles City": 1,
+  "Havre": 3,
+  "Lewistown": 1,
+  "Dillon": 0,
+  "Polson": 0,
+  "Anaconda": 1,
+  "Glendive": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 214316,
+   "gzip": 51851
+  },
+  "data/detail-beaverhead-county.json": {
+   "raw": 1724,
+   "gzip": 580
+  },
+  "data/detail-big-horn-county.json": {
+   "raw": 946,
+   "gzip": 417
+  },
+  "data/detail-blaine-county.json": {
+   "raw": 230,
+   "gzip": 138
+  },
+  "data/detail-broadwater-county.json": {
+   "raw": 673,
+   "gzip": 279
+  },
+  "data/detail-carbon-county.json": {
+   "raw": 2581,
+   "gzip": 799
+  },
+  "data/detail-carter-county.json": {
+   "raw": 151,
+   "gzip": 128
+  },
+  "data/detail-cascade-county.json": {
+   "raw": 11345,
+   "gzip": 3019
+  },
+  "data/detail-chouteau-county.json": {
+   "raw": 390,
+   "gzip": 190
+  },
+  "data/detail-custer-county.json": {
+   "raw": 1873,
+   "gzip": 679
+  },
+  "data/detail-daniels-county.json": {
+   "raw": 328,
+   "gzip": 168
+  },
+  "data/detail-dawson-county.json": {
+   "raw": 883,
+   "gzip": 352
+  },
+  "data/detail-deer-lodge-county.json": {
+   "raw": 1345,
+   "gzip": 545
+  },
+  "data/detail-fallon-county.json": {
+   "raw": 465,
+   "gzip": 234
+  },
+  "data/detail-fergus-county.json": {
+   "raw": 1350,
+   "gzip": 524
+  },
+  "data/detail-flathead-county.json": {
+   "raw": 16277,
+   "gzip": 4515
+  },
+  "data/detail-gallatin-county.json": {
+   "raw": 21936,
+   "gzip": 5855
+  },
+  "data/detail-garfield-county.json": {
+   "raw": 79,
+   "gzip": 80
+  },
+  "data/detail-glacier-county.json": {
+   "raw": 1793,
+   "gzip": 661
+  },
+  "data/detail-golden-valley-county.json": {
+   "raw": 79,
+   "gzip": 82
+  },
+  "data/detail-granite-county.json": {
+   "raw": 475,
+   "gzip": 225
+  },
+  "data/detail-hill-county.json": {
+   "raw": 2465,
+   "gzip": 815
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 918,
+   "gzip": 397
+  },
+  "data/detail-judith-basin-county.json": {
+   "raw": 218,
+   "gzip": 163
+  },
+  "data/detail-lake-county.json": {
+   "raw": 3470,
+   "gzip": 1097
+  },
+  "data/detail-lewis-and-clark-county.json": {
+   "raw": 9289,
+   "gzip": 2708
+  },
+  "data/detail-liberty-county.json": {
+   "raw": 79,
+   "gzip": 78
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 2295,
+   "gzip": 781
+  },
+  "data/detail-madison-county.json": {
+   "raw": 2507,
+   "gzip": 842
+  },
+  "data/detail-mccone-county.json": {
+   "raw": 143,
+   "gzip": 122
+  },
+  "data/detail-meagher-county.json": {
+   "raw": 512,
+   "gzip": 213
+  },
+  "data/detail-mineral-county.json": {
+   "raw": 671,
+   "gzip": 290
+  },
+  "data/detail-missoula-county.json": {
+   "raw": 16491,
+   "gzip": 4373
+  },
+  "data/detail-musselshell-county.json": {
+   "raw": 166,
+   "gzip": 101
+  },
+  "data/detail-park-county.json": {
+   "raw": 3824,
+   "gzip": 1272
+  },
+  "data/detail-phillips-county.json": {
+   "raw": 587,
+   "gzip": 284
+  },
+  "data/detail-pondera-county.json": {
+   "raw": 490,
+   "gzip": 251
+  },
+  "data/detail-powder-river-county.json": {
+   "raw": 108,
+   "gzip": 86
+  },
+  "data/detail-powell-county.json": {
+   "raw": 1049,
+   "gzip": 431
+  },
+  "data/detail-prairie-county.json": {
+   "raw": 108,
+   "gzip": 92
+  },
+  "data/detail-ravalli-county.json": {
+   "raw": 4265,
+   "gzip": 1394
+  },
+  "data/detail-richland-county.json": {
+   "raw": 1588,
+   "gzip": 573
+  },
+  "data/detail-roosevelt-county.json": {
+   "raw": 833,
+   "gzip": 350
+  },
+  "data/detail-rosebud-county.json": {
+   "raw": 892,
+   "gzip": 363
+  },
+  "data/detail-sanders-county.json": {
+   "raw": 1030,
+   "gzip": 362
+  },
+  "data/detail-sheridan-county.json": {
+   "raw": 489,
+   "gzip": 248
+  },
+  "data/detail-silver-bow-county.json": {
+   "raw": 5601,
+   "gzip": 1665
+  },
+  "data/detail-stillwater-county.json": {
+   "raw": 994,
+   "gzip": 406
+  },
+  "data/detail-sweet-grass-county.json": {
+   "raw": 356,
+   "gzip": 184
+  },
+  "data/detail-teton-county.json": {
+   "raw": 386,
+   "gzip": 195
+  },
+  "data/detail-toole-county.json": {
+   "raw": 576,
+   "gzip": 257
+  },
+  "data/detail-treasure-county.json": {
+   "raw": 50,
+   "gzip": 69
+  },
+  "data/detail-valley-county.json": {
+   "raw": 1188,
+   "gzip": 443
+  },
+  "data/detail-wheatland-county.json": {
+   "raw": 430,
+   "gzip": 200
+  },
+  "data/detail-wibaux-county.json": {
+   "raw": 245,
+   "gzip": 145
+  },
+  "data/detail-yellowstone-county.json": {
+   "raw": 22915,
+   "gzip": 5711
+  },
+  "data/ids.json": {
+   "raw": 36220,
+   "gzip": 21365
+  },
+  "data/mt_shapes.json": {
+   "raw": 111210,
+   "gzip": 24480
+  }
+ }
+}
